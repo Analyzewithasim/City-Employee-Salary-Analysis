@@ -32,7 +32,7 @@ The dataset includes:
 - **Year-wise salary breakdown**
 - **Notes on benefits and employment status**
 
-📎 [Source PDF Reference (Uploaded)](./cisco-city-employee-salary-dataset.pdf)
+📎 [Source Dataset (Uploaded)](./https://github.com/Analyzewithasim/City-Employee-Salary-Analysis/blob/main/Salaries.csv)
 
 ---
 
