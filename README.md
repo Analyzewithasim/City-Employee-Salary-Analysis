@@ -3,9 +3,9 @@
 # 🧑‍💼 City Employee Salary Analysis (2011–2014)
 
 <p align="center">
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/Analyzewithasim/city-salary-analysis?style=for-the-badge">
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/Analyzewithasim/city-salary-analysis?style=for-the-badge">
-  <img alt="MIT License" src="https://img.shields.io/github/license/Analyzewithasim/city-salary-analysis?style=for-the-badge">
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/Analyzewithasim/City-Employee-Salary-Analysis?style=for-the-badge">
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/Analyzewithasim/City-Employee-Salary-Analysis?style=for-the-badge">
+  <img alt="MIT License" src="https://img.shields.io/github/license/Analyzewithasim/City-Employee-Salary-Analysis?style=for-the-badge">
   <img alt="Python" src="https://img.shields.io/badge/Built%20With-Python%203.9+-blue?style=for-the-badge">
 </p>
 
